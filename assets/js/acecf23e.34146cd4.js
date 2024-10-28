@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktransitor=self.webpackChunktransitor||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/transitor/blog","blogTitle":"Blog","authorsListPath":"/transitor/blog/authors"}')}}]);
