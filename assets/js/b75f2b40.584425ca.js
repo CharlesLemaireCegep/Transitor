@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktransitor=self.webpackChunktransitor||[]).push([[8435],{3333:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/transitor/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
